@@ -1,0 +1,19 @@
+.red{
+color:red;
+background-color: aqua;
+}
+.green{
+
+    color: green;
+    background-color: darkkhaki;
+}
+
+#watermelon{
+    color: purple;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}.main_div{
+    background-color: brown;
+}
+.sub_div{
+    background-color: cornflowerblue;
+}

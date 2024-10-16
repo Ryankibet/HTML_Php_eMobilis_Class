@@ -1,0 +1,13 @@
+h2{color: brown;}
+p{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+th,td{
+    border: 2px solid;color : rgb(2, 5, 5);;
+    padding: 10px;
+}
+table{ 
+    width: 100%;
+    border-collapse: collapse; 
+}
+li{color: chartreuse;}
